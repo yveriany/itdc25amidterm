@@ -36,6 +36,9 @@
 									<li class="popover-item"><a class="popover-link" href="#" title="Getting Started">BSCS</a></li>
 									<li class="popover-item"><a class="popover-link" href="#" title="Getting Started">BSIT</a></li>
 									<!-- Add 3 more courses here from college of computer studies [BSISM, BSDMIA, BLIS]. We shoud be able to see 3 more courses when you click on Courses menu -->
+									<li class="popover-item"><a class="popover-link" href="#" title="Getting Started">BSISM</a></li>
+									<li class="popover-item"><a class="popover-link" href="#" title="Getting Started">BSDMIA</a></li>
+									<li class="popover-item"><a class="popover-link" href="#" title="Getting Started">BLIS</a></li>
 								</ul>
 							</div>
 						</li>
